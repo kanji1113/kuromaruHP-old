@@ -7,5 +7,5 @@
 ## 使ってるもの
 - freenom
 - fontawesome
-- GitPages
+- GitHub Pages
 - vercel
