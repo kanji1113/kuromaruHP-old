@@ -25,11 +25,16 @@ body {
 
 #copy {
   display: inline-block;
-  padding: 1.5em 1em 0.5em;
+  padding: 1.5em 1em 2em;
 }
 
 .copy-n {
   display: inline-block;
+}
+
+.banner {
+  max-width: 560px;
+  width: 95%;
 }
 
 .frame {
@@ -40,7 +45,7 @@ body {
   max-width: 30em;
   border-radius: 3.9px;
   padding: 0.7em;
-  margin: 0.5em;
+  margin: 2em 0.5em;
 }
 
 .ado {
