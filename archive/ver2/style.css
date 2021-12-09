@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ","Meirio", sans-serif;
+  margin: 0;
+  background-color: #7CD6B2;
+}
+
+.all{
+  display: inline-block;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #fff;
+  max-width: 50em;
+  width: 90%;
+}
+
+.logo{
+  width: 90%;
+  max-width: 20em;
+  margin: 0.5em;
+}
+
+.frame{
+  display: inline-block;
+  color: #009C9E;
+  border: solid 4px #009C9E;
+  width: 80%;
+  max-width: 30em;
+  border-radius: 3.9px;
+  padding: 0.7em;
+  margin: 0.5em;
+}
+
+.ado{
+  display: inline-block;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 0.7em;
+}
+
+.adoc{
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: bold;
+  color: #323232;
+  margin: 0.7em;
+}
+
+.yoko{
+  width: 90%;
+  max-width: 15em;
+}
+
+.w-yoko{
+  width: 90%;
+  max-width: 25em;
+  margin: 1em;
+}
+
+.btn-flat {
+  display: inline-block;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  margin: 0.5em;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: .4s;
+  font-size: 1.2em;
+  font-weight: bold;
+  /*width: 15em;
+    padding: 0.8em 1em;*/
+}
+
+.btn-flat:hover {
+  color: white;
+}
+
+.b-Dis {
+  color: #5865F2;
+  border: solid 4px #5865F2;
+}
+.b-Dis:hover {
+  background: #5865F2;
+}
+
+.b-Dyn {
+  color: #5DC340;
+  border: solid 4px #5DC340;
+}
+.b-Dyn:hover {
+  background: #5DC340;
+}
+
+.b-Blue {
+  color: #2C84FA;
+  border: solid 4px #2C84FA;
+}
+.b-Blue:hover {
+  background: #2C84FA;
+}
+
+.b-JMS {
+  color: #66C9B2;
+  border: solid 4px #66C9B2;
+}
+.b-JMS:hover {
+  background: #66C9B2;
+}
+
+.b-twtr {
+  color: #00ACEE;
+  border: solid 4px #00ACEE;
+}
+.b-twtr:hover {
+  background: #00ACEE;
+}
+
+.b-YT {
+  color: #DA1725;
+  border: solid 4px #DA1725;
+}
+.b-YT:hover {
+  background: #DA1725;
+}
+
+.b-HP {
+  color: #009C9E;
+  border: solid 4px #009C9E;
+}
+.b-HP:hover {
+  background: #009C9E;
+}
+
+
+/*SmartPhone*/
+
+@media (max-width: 639px) {
+
+}
+
+/*PC*/
+
+@media (min-width: 639px) {
+
+}

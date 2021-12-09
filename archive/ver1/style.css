@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ","Meirio", sans-serif;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin: 0;
+}
+
+.btn-flat {
+  display: inline-block;
+  padding: 0.8em 1em;
+  margin: 0.5em;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: .4s;
+  width: 15em;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.btn-flat:hover {
+  color: white;
+}
+
+
+.b-Dis {
+  color: #5865F2;
+  border: solid 4px #5865F2;
+}
+.b-Dis:hover {
+  background: #5865F2;
+}
+
+.b-Dyn {
+  color: #5DC340;
+  border: solid 4px #5DC340;
+}
+.b-Dyn:hover {
+  background: #5DC340;
+}
+
+.b-Blue {
+  color: #2C84FA;
+  border: solid 4px #2C84FA;
+}
+.b-Blue:hover {
+  background: #2C84FA;
+}
+
+.b-JMS {
+  color: #66C9B2;
+  border: solid 4px #66C9B2;
+}
+.b-JMS:hover {
+  background: #66C9B2;
+}
+
+.b-twtr {
+  color: #00ACEE;
+  border: solid 4px #00ACEE;
+}
+.b-twtr:hover {
+  background: #00ACEE;
+}
+
+.b-YT {
+  color: #DA1725;
+  border: solid 4px #DA1725;
+}
+.b-YT:hover {
+  background: #DA1725;
+}
+
+.b-HP {
+  color: #009C9E;
+  border: solid 4px #009C9E;
+}
+.b-HP:hover {
+  background: #009C9E;
+}
+
+
+/*SmartPhone*/
+
+@media (max-width: 639px) {
+
+}
+
+/*PC*/
+
+@media (min-width: 639px) {
+
+}
