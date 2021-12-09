@@ -8,14 +8,9 @@ body {
   background-color: #7CD6B2;
 }
 
-p {
-  display: inline-block;
-  width: 95%;
-}
-
 .all{
   display: inline-block;
-  padding-top: 3rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #fff;
   max-width: 50em;
@@ -23,9 +18,18 @@ p {
 }
 
 .logo{
-  width: 90%;
+  width: 95%;
   max-width: 20em;
   margin: 0.5em;
+}
+
+#copy {
+  display: inline-block;
+  padding: 1em 3em 0em;
+}
+
+.copy-n {
+  display: inline-block;
 }
 
 .frame{
