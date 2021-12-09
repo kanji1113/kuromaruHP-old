@@ -8,6 +8,10 @@ body {
   background-color: #7CD6B2;
 }
 
+p {
+  width: 90%;
+}
+
 .all{
   display: inline-block;
   padding-top: 3rem;
