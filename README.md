@@ -6,5 +6,6 @@
 
 ## 使ってるもの
 - freenom
-- vercel
 - fontawesome
+- GitPages
+- vercel
