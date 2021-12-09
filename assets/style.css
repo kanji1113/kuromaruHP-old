@@ -3,12 +3,13 @@
 body {
   display: block;
   text-align: center;
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ","Meirio", sans-serif;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ",
+    "Meirio", sans-serif;
   margin: 0;
-  background-color: #7CD6B2;
+  background-color: #7cd6b2;
 }
 
-.all{
+.all {
   display: inline-block;
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -17,25 +18,25 @@ body {
   width: 92%;
 }
 
-.logo{
-  width: 95%;
-  max-width: 20em;
+.logo {
+  width: 90%;
+  max-width: 22em;
   margin: 0.5em;
 }
 
 #copy {
   display: inline-block;
-  padding: 1em 3em 0em;
+  padding: 1.5em 1em 0.5em;
 }
 
 .copy-n {
   display: inline-block;
 }
 
-.frame{
+.frame {
   display: inline-block;
-  color: #009C9E;
-  border: solid 4px #009C9E;
+  color: #009c9e;
+  border: solid 4px #009c9e;
   width: 80%;
   max-width: 30em;
   border-radius: 3.9px;
@@ -43,14 +44,14 @@ body {
   margin: 0.5em;
 }
 
-.ado{
+.ado {
   display: block;
   font-size: 1.2em;
   font-weight: bold;
   margin: 0.7em;
 }
 
-.adoc{
+.adoc {
   display: block;
   text-decoration: none;
   font-size: 1em;
@@ -59,20 +60,23 @@ body {
   margin: 0.7em;
 }
 
-.size{
-  width: 100%;
-  max-width: 15.5em;
+#link {
+  display: block;
+  margin: 0em 1em;
 }
 
+.size {
+  width: 100%;
+  max-width: 16em;
+}
 
-
-.w-size{
+.w-size {
   width: 90%;
   max-width: 25em;
   margin: 1.5em 1em 1em;
 }
 
-.y-size{
+.y-size {
   display: inline-block;
   position: relative;
   width: 90%;
@@ -80,9 +84,9 @@ body {
 }
 
 .y-size:before {
-  content:"";
+  content: "";
   display: inline-block;
-  padding-top: 55.1%; /* 高さと幅の比を16:9に固定。9/16*100=56.25 */
+  padding-top: 55.1%; /* 高さと幅の比を16:9に固定 */
 }
 
 .content {
@@ -93,7 +97,7 @@ body {
   height: 100%;
 }
 
-.cr{
+.cr {
   margin-top: 2em;
 }
 
@@ -104,7 +108,7 @@ body {
   margin: 0.5em;
   text-decoration: none;
   border-radius: 3px;
-  transition: .4s;
+  transition: 0.39s;
   font-size: 1.2em;
   font-weight: bold;
   /*width: 15em;
@@ -116,51 +120,51 @@ body {
 }
 
 .b-Dis {
-  color: #5865F2;
-  border: solid 4px #5865F2;
+  color: #5865f2;
+  border: solid 4px #5865f2;
 }
 .b-Dis:hover {
-  background: #5865F2;
+  background: #5865f2;
 }
 
 .b-Dyn {
-  color: #5DC340;
-  border: solid 4px #5DC340;
+  color: #5dc340;
+  border: solid 4px #5dc340;
 }
 .b-Dyn:hover {
-  background: #5DC340;
+  background: #5dc340;
 }
 
 .b-Blue {
-  color: #2C84FA;
-  border: solid 4px #2C84FA;
+  color: #2c84fa;
+  border: solid 4px #2c84fa;
 }
 .b-Blue:hover {
-  background: #2C84FA;
+  background: #2c84fa;
 }
 
 .b-JMS {
-  color: #66C9B2;
-  border: solid 4px #66C9B2;
+  color: #66c9b2;
+  border: solid 4px #66c9b2;
 }
 .b-JMS:hover {
-  background: #66C9B2;
+  background: #66c9b2;
 }
 
 .b-twtr {
-  color: #00ACEE;
-  border: solid 4px #00ACEE;
+  color: #00acee;
+  border: solid 4px #00acee;
 }
 .b-twtr:hover {
-  background: #00ACEE;
+  background: #00acee;
 }
 
 .b-YT {
-  color: #DA1725;
-  border: solid 4px #DA1725;
+  color: #da1725;
+  border: solid 4px #da1725;
 }
 .b-YT:hover {
-  background: #DA1725;
+  background: #da1725;
 }
 
 .b-git {
@@ -171,15 +175,12 @@ body {
   background: #24292f;
 }
 
-
 /*SmartPhone*/
 
 @media (max-width: 639px) {
-
 }
 
 /*PC*/
 
 @media (min-width: 639px) {
-
 }
