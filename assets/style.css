@@ -158,12 +158,12 @@ p {
   background: #DA1725;
 }
 
-.b-HP {
-  color: #009C9E;
-  border: solid 4px #009C9E;
+.b-git {
+  color: #24292f;
+  border: solid 4px #24292f;
 }
-.b-HP:hover {
-  background: #009C9E;
+.b-git:hover {
+  background: #24292f;
 }
 
 
