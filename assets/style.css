@@ -32,6 +32,13 @@ body {
   display: inline-block;
 }
 
+.attention {
+  display: inline-block;
+  padding-top: 1.5em;
+  color: #ff3300;
+  font-weight: bold;
+}
+
 .banner {
   max-width: 560px;
   width: 95%;
