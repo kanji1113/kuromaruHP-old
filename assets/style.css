@@ -25,7 +25,7 @@ body {
 
 #copy {
   display: inline-block;
-  padding: 1.5em 1em 2em;
+  padding: 1.5em 1em 0.5em;
 }
 
 .copy-n {
@@ -45,7 +45,7 @@ body {
   max-width: 30em;
   border-radius: 3.9px;
   padding: 0.7em;
-  margin: 2em 0.5em;
+  margin: 1.5em 0.5em;
 }
 
 .ado {
