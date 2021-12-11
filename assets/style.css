@@ -32,6 +32,11 @@ body {
   display: inline-block;
 }
 
+.osirase {
+  display: inline-block;
+  padding-top: 1em;
+}
+
 .attention {
   display: inline-block;
   padding-top: 1.5em;
@@ -42,6 +47,7 @@ body {
 .banner {
   max-width: 560px;
   width: 95%;
+  margin-top: 1em;
 }
 
 .frame {
