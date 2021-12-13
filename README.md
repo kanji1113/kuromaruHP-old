@@ -12,3 +12,4 @@
 - fontawesome
 - GitHub Pages
 - vercel
+- nginx（サーバー側）
