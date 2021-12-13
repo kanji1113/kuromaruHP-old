@@ -3,6 +3,10 @@
       {
         "source": "/dynmap",
         "destination": "http://lovmc.ml/dynmap"
+      },
+      {
+        "source": "/bluemap",
+        "destination": "http://lovmc.ml/bluemap"
       }
     ]
   }
