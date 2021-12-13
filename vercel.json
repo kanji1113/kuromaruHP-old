@@ -5,6 +5,10 @@
         "destination": "http://lovmc.ml/dynmap"
       },
       {
+        "source": "/index.html",
+        "destination": "/"
+      },
+      {
         "source": "/bluemap",
         "destination": "http://lovmc.ml/bluemap"
       }
