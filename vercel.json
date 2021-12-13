@@ -1,0 +1,8 @@
+{
+    "redirects": [
+      {
+        "source": "/dynmap",
+        "destination": "http://lovmc.ml/dynmap"
+      }
+    ]
+  }
