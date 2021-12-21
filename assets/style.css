@@ -21,6 +21,7 @@ body {
   width: 90%;
   max-width: 22em;
   margin: 0.5em;
+  image-rendering: pixelated;
 }
 
 #copy {
@@ -135,6 +136,14 @@ body {
 .btn-flat:hover {
   color: white;
 }
+.b-Join {
+  color: #009c9e;
+  border: solid 4px #009c9e;
+}
+
+.b-Join:hover {
+  background: #009c9e;
+}
 
 .b-Dis {
   color: #5865f2;
@@ -200,4 +209,7 @@ body {
 /*PC*/
 
 @media (min-width: 639px) {
+  .b-join {
+    display: none;
+  }
 }
