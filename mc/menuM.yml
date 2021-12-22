@@ -194,7 +194,8 @@ panels:
           - sound= UI_BUTTON_CLICK
       "48":
         material: ENDER_CHEST
-        name: "エンダーチェストを開く"
+        enchanted: true
+        name: "&bエンダーチェストを開く"
         commands:
           - op= openender
           - sound= UI_BUTTON_CLICK
@@ -209,7 +210,7 @@ panels:
           - "&fBEの方へ - &d以下のリンクをブラウザで入力してください"
           - "&bwww.lovmc.ml"
         commands:
-          - op= function lovmcpack:jms
+          - op= function lovmcpack:web
           - cpc
           - sound= UI_BUTTON_CLICK
       "51":

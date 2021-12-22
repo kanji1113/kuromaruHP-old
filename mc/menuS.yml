@@ -1,117 +1,147 @@
 panels:
-  menu:
+  menuS:
     perm: default
     rows: 6
     title: "&5== &3Lovmc MENU &5=="
-    empty: light_blue_stained_glass_pane
+    empty: magenta_stained_glass_pane
     commands:
-      - menu
+      - menuS
     item:
-      "0":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
       "1":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM4Y2YzZjhlNTRhZmMzYjNmOTFkMjBhNDlmMzI0ZGNhMTQ4NjAwN2ZlNTQ1Mzk5MDU1NTI0YzE3OTQxZjRkYyJ9fX0=
-        stack: 1
         name: Minecraft World
-      "2":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "3":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "4":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "5":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
       "6":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "7":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "8":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "9":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "10":
-        material: BONE
-        stack: 1
-        name: ""
+        material: bone
+        name: "tt &7- &5トラップタワーワールド"
+        lore:
+          - ""
+          - "&bトラップタワーがあるワールドです"
+          - "&dTNTの使用はできません"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp tt
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "11":
-        material: COOKED_PORKCHOP
-        stack: 1
-        name: ""
+        material: cooked_porkchop
+        name: "nett &7- &5ネザートラップワールド"
+        lore:
+          - ""
+          - "&bホグリントラップがあります"
+          - "&dTNTの使用はできません"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp nett
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "12":
-        material: ENDER_PEARL
-        stack: 1
-        name: ""
+        material: ender_pearl
+        name: "endtt &7- &5エンドトラップワールド"
+        lore:
+          - ""
+          - "&b経験値トラップ、ウィザーローズトラップがあります"
+          - "&dTNTの使用はできません"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp endtt
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "13":
         material: IRON_INGOT
-        stack: 1
-        name: ""
-      "14":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "ott &7- &5IGTワールド"
+        lore:
+          - ""
+          - "&bアイアンゴーレムトラップを建築する場所です"
+          - "&dTNTの使用はできません"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp ott
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "15":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "16":
         material: GRASS_BLOCK
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&aメインサーバーへ行く"
+        lore:
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - server= lovmc1
       "17":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "18":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "19":
         material: ENDER_CHEST
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&bエンダーチェストを開く"
+        commands:
+          - mpdb end
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "20":
         material: MAGENTA_BED
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&eホームリストを開く"
+        lore:
+          - ""
+          - "設定したい場所に立ち、"
+          - "&b/sethome [家の名前] &5で登録"
+          - "&b/delhome [家の名前] &5で削除"
+          - "&d5箇所まで登録できます"
+          - "&aメインサーバーとは共有されません"
+          - ""
+          - "&e&lクリックで表示"
+        commands:
+          - homelist
+          - sound= UI_BUTTON_CLICK
       "21":
         material: COMPASS
-        stack: 1
-        name: ""
+        name: "&eスポーンへTP"
+        enchanted: true
+        commands:
+          - mvs
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "22":
         material: CHAIN_COMMAND_BLOCK
-        stack: 1
-        name: ""
-      "23":
-        material: MAGENTA_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&e公式ホームページ"
+        lore:
+          - ""
+          - "&bJMS,DynMapなど、関連リンクを載せています"
+          - ""
+          - "&fBEの方へ - &d以下のリンクをブラウザで入力してください"
+          - "&bwww.lovmc.ml"
+        commands:
+          - op= function lovmcpack:web
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "24":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "25":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "26":
         material: RED_WOOL
-        stack: 1
-        name: ""
+        name: "&dメニューを閉じる"
+        commands:
+          - refresh
+          - cpc
+          - sound= UI_BUTTON_CLICK
