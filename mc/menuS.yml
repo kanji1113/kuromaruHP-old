@@ -90,7 +90,7 @@ panels:
         enchanted: true
         name: "&bエンダーチェストを開く"
         commands:
-          - mpdb end
+          - op= mpdb end
           - sound= UI_BUTTON_CLICK
       "20":
         material: MAGENTA_BED
@@ -122,7 +122,7 @@ panels:
         name: "&e公式ホームページ"
         lore:
           - ""
-          - "&bJMS,DynMapなど、関連リンクを載せています"
+          - "&bJMS・DynMapなど、関連リンクを載せています"
           - ""
           - "&fBEの方へ - &d以下のリンクをブラウザで入力してください"
           - "&bwww.lovmc.ml"
