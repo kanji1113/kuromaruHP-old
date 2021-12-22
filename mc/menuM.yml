@@ -48,7 +48,7 @@ panels:
         name: "&f"
       "19":
         material: grass_block
-        name: "world &7- &5建築ワールド①"
+        name: "world &7- &5建築ワールド"
         lore:
           - ""
           - "&bメインのワールドです。リス地には観覧車"
@@ -62,10 +62,10 @@ panels:
           - sound= UI_BUTTON_CLICK
       "20":
         material: netherrack
-        name: "world_nether &7- &5ネザー①"
+        name: "world_nether &7- &5ネザー"
         lore:
           - ""
-          - "&b建築ワールド①に紐づいているネザーです"
+          - "&b建築ワールドに紐づいているネザーです"
           - "TNTの使用ができます"
           - ""
           - "&e&lクリックで移動！"
@@ -75,10 +75,10 @@ panels:
           - sound= UI_BUTTON_CLICK
       "21":
         material: end_stone
-        name: "world_the_end &7- &5エンド①"
+        name: "world_the_end &7- &5エンド"
         lore:
           - ""
-          - "&b建築ワールド①に紐づいているエンドです"
+          - "&b建築ワールドに紐づいているエンドです"
           - "TNTの使用ができます"
           - ""
           - "&e&lクリックで移動！"
