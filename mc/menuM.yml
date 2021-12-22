@@ -2,7 +2,7 @@ panels:
   menuM:
     perm: default
     rows: 6
-    title: "&3=== &9&lL&5&lO&c&lV&3&lM&9&lC&d&l Phone &3==="
+    title: "&3=== &9&lL&5&lO&6&lV&3&lM&9&lC&d&l Phone &3==="
     empty: light_blue_stained_glass_pane
     commands:
       - menuM
