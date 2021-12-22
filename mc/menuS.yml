@@ -1,8 +1,8 @@
 panels:
   menuS:
     perm: default
-    rows: 6
-    title: "&5== &3Lovmc MENU &5=="
+    rows: 3
+    title: "&b=== &9&lL&5&lO&6&lV&3&lM&9&lC&d&l Phone &b==="
     empty: magenta_stained_glass_pane
     commands:
       - menuS
@@ -76,7 +76,6 @@ panels:
         name: "&f"
       "16":
         material: GRASS_BLOCK
-        enchanted: true
         name: "&aメインサーバーへ行く"
         lore:
           - ""
@@ -92,7 +91,6 @@ panels:
         name: "&bエンダーチェストを開く"
         commands:
           - mpdb end
-          - cpc
           - sound= UI_BUTTON_CLICK
       "20":
         material: MAGENTA_BED
