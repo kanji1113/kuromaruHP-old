@@ -1,223 +1,246 @@
 panels:
-  menu:
+  menuM:
     perm: default
     rows: 6
-    title: "&8Generated panel-1"
-    empty: BLACK_STAINED_GLASS_PANE
+    title: "&b=== &9&lL&5&lO&6&lV&3&lM&9&lC&d&l Phone &b==="
+    empty: light_blue_stained_glass_pane
+    commands:
+      - menuM
     item:
       "0":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMzNmY2NzE1ZmQ2MGRkODM2ZjI4ZTUyM2MzNDM0NWE0NTQyMDdlZTQxODRkNWIzZGQ0Y2U1MjkzMDcxYzEifX19
-        stack: 1
-        name: ""
+        name: "&lL"
       "1":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI4NGRiNmE2M2FhODY4MWNlOWU0ZTJlOGViYmRmZTE0ODEzMDdlZDM5YTJmYjI0NjM1ZWJiNzlmODNkNjQifX19
-        stack: 1
-        name: ""
+        name: "&lO"
       "2":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNhZTZjYmZlNzkyY2JiNGY4OGJmNDI1YmRkM2FkZDk5NDJmNzUwNjczYzM0NGRkMzRhZjZkNDJjNTkzZWYifX19
-        stack: 1
-        name: ""
+        name: "&lV"
       "3":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc2ZGI4N2E3MjgzNzc0ZDhhMTg1ZTNkNTE5ZWI3MDIyZWRkNTM0NDU1ZTJjZjM3OGRjOGJkZTdmODJiYzgifX19
-        stack: 1
-        name: ""
+        name: "&lM"
       "4":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTI2ZmIxNjlkM2Q3Yjg0OWYwYmI5YTcwZWI3YjQ4MWQ2ZjcxZTk3YzhlY2IxMzU0NmVjOTcyMzgxNDkxNyJ9fX0=
-        stack: 1
-        name: ""
+        name: "&lC"
       "5":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM3OWZlNTU4MjdjYmE4ZGNiYzE5YmRmOTNiNWNkNWQwNDE2ZTVhODM2MmU2NjgzMDg0YTI1MjMzNDI4MyJ9fX0=
-        stack: 1
-        name: ""
+        name: "&lM"
       "6":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmZiYzQxYWI2ZWU0Zjk3YzY1OWQ0ZjZlNDdjNDk0ZTk2MTI1NWEwNmE0OTZiZDVjNjYzOGIzMzlkYzAifX19
-        stack: 1
-        name: ""
+        name: "&lE"
       "7":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2VmODljMjFiN2JjY2VlMzYyMjc0MTYwYmQzNGE0NWNlMmFiMzQ3YjZkZjliMjY4OTY2MGYwZTk0YWRlZGQ1MCJ9fX0=
-        stack: 1
-        name: ""
+        name: "&lN"
       "8":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE4NGVlNzE0MjVkNmI3NGMzZTY4NzJjM2ExMTc3ZGNiZmIwZmU3OTlkMmM0NzIxMGI1YTQ0NjcyY2UxZmJhIn19fQ==
-        stack: 1
-        name: ""
-      "9":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&lU"
       "10":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM4Y2YzZjhlNTRhZmMzYjNmOTFkMjBhNDlmMzI0ZGNhMTQ4NjAwN2ZlNTQ1Mzk5MDU1NTI0YzE3OTQxZjRkYyJ9fX0=
-        stack: 1
         name: Minecraft World
-      "11":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "12":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "13":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "14":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
       "15":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "16":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "17":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "18":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "19":
-        material: GRASS_BLOCK
-        stack: 1
-        name: ""
+        material: grass_block
+        name: "world &7- &5建築ワールド①"
+        lore:
+          - ""
+          - "&bメインのワールドです。リス地には観覧車"
+          - "&b難易度はノーマル。モンスターは湧きません"
+          - "&dTNTの使用はできません"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp world
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "20":
-        material: NETHERRACK
-        stack: 1
-        name: ""
+        material: netherrack
+        name: "world_nether &7- &5ネザー①"
+        lore:
+          - ""
+          - "&b建築ワールド①に紐づいているネザーです"
+          - "TNTの使用ができます"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp world_nether
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "21":
-        material: END_STONE
-        stack: 1
-        name: ""
+        material: end_stone
+        name: "world_the_end &7- &5エンド①"
+        lore:
+          - ""
+          - "&b建築ワールド①に紐づいているエンドです"
+          - "TNTの使用ができます"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp world_the_end
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "22":
-        material: STONE
-        stack: 1
-        name: ""
-      "23":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        material: stone
+        name: "sigen &7- &5資源ワールド"
+        lore:
+          - ""
+          - "&b資源集めを行うワールドです"
+          - "TNTの使用ができます"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - mvtp sigen
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "24":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "25":
         material: BONE
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&aサブサーバーへ行く"
+        lore:
+          - ""
+          - "&bTT関係があるサーバーです"
+          - "&dチャットは共有されませんが、"
+          - "&dインベントリは共有されます"
+          - ""
+          - "&e&lクリックで移動！"
+        commands:
+          - server= lovmc3
       "26":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "27":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "28":
-        material: WRITABLE_BOOK
-        stack: 1
-        name: ""
-      "29":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "30":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "31":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "32":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        material: writable_book
+        enchanted: true
+        name: "&e外部リンク"
+        lore:
+          - ""
+          - "&bBEはリンククリックができないため"
+          - "&bブラウザにURLを自分で入力するようにお願いします"
       "33":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "34":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "35":
         material: LIME_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "36":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "&f"
       "37":
         material: cps= reiwamiku
-        stack: 1
-        name: ""
+        name: "&d頭交換所へTP"
+        enchanted: true
+        lore:
+          - ""
+          - "&b商品は鯖主の気まぐれで変更されるので"
+          - "&bたまに覗いてみるといいかもしれません！"
+          - ""
+          - "&e&lクリックでTP"
+        commands:
+          - mvtp world
+          - teleport= 216 66 184
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "38":
         material: NETHER_STAR
-        stack: 1
-        name: ""
+        name: "&dログインボーナス"
+        lore:
+          - ""
+          - "&b毎日ダイヤ3個、週にネザースターが2つ貰えます"
+          - ""
+          - "&e&lクリックで開く"
+        enchanted: true
+        commands:
+          - rewards
+          - sound= UI_BUTTON_CLICK
       "39":
         material: MAP
-        stack: 1
-        name: ""
-      "40":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "coming soon..."
       "41":
-        material: EXPERIENCE_BOTTLE
-        stack: 1
-        name: ""
-      "42":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "43":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "44":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
-      "45":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        material: experience_bottle
+        name: "&e色々"
       "46":
         material: LIGHT_BLUE_BED
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&eホームリストを開く"
+        lore:
+          - ""
+          - "設定したい場所に立ち、"
+          - "&b/sethome [家の名前] &5で登録"
+          - "&b/delhome [家の名前] &5で削除"
+          - "&d10箇所まで登録できます"
+          - "&aサブサーバーとは共有されません"
+          - ""
+          - "&e&lクリックで表示"
+        commands:
+          - homelist
+          - sound= UI_BUTTON_CLICK
       "47":
         material: COMPASS
-        stack: 1
-        name: ""
+        name: "&eスポーンへTP"
+        enchanted: true
+        commands:
+          - mvs
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "48":
         material: ENDER_CHEST
-        stack: 1
-        name: ""
-      "49":
-        material: LIGHT_BLUE_STAINED_GLASS_PANE
-        stack: 1
-        name: ""
+        name: "エンダーチェストを開く"
+        commands:
+          - op= openender
+          - sound= UI_BUTTON_CLICK
       "50":
         material: CHAIN_COMMAND_BLOCK
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&e公式ホームページ"
+        lore:
+          - ""
+          - "&bJMS,DynMapなど、関連リンクを載せています"
+          - ""
+          - "&fBEの方へ - &d以下のリンクをブラウザで入力してください"
+          - "&bwww.lovmc.ml"
+        commands:
+          - op= function lovmcpack:jms
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "51":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM1OWU1YzdiMDczOGI1NzlmM2I0NDRjMTNhNDdiZWQ0OTZiMzA4MzhiMmVlMmIxMjdjYzU5Y2Q3OThhZWU3NyJ9fX0=
-        stack: 1
-        name: Discord
+        name: "&eDiscord"
+        lore:
+          - ""
+          - "&fBEの方へ - &d以下のリンクをブラウザに入力してください"
+          - "&bdiscord.gg/3cPMXcdGKd"
+        commands:
+          - op= function lovmcpack:discord
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "52":
         material: DIAMOND
-        stack: 1
-        name: ""
+        enchanted: true
+        name: "&eJapan Minecraft Servers"
+        lore:
+          - ""
+          - "&b投票は、システムの都合上Java版のみの対応となります"
+          - ""
+          - "&fBEの方へ - &d以下のリンクをブラウザに入力してください"
+          - "&bminecraft.jp/servers/lovmc.ml"
+        commands:
+          - op= function lovmcpack:jms
+          - cpc
+          - sound= UI_BUTTON_CLICK
       "53":
         material: RED_WOOL
-        stack: 1
-        name: ""
+        name: "&dメニューを閉じる"
+        commands:
+          - refresh
+          - cpc
+          - sound= UI_BUTTON_CLICK
