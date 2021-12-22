@@ -198,7 +198,6 @@ panels:
         name: "&bエンダーチェストを開く"
         commands:
           - op= mpdb end
-          - sound= UI_BUTTON_CLICK
       "50":
         material: CHAIN_COMMAND_BLOCK
         enchanted: true

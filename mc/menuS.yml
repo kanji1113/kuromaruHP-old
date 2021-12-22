@@ -91,7 +91,6 @@ panels:
         name: "&bエンダーチェストを開く"
         commands:
           - op= mpdb end
-          - sound= UI_BUTTON_CLICK
       "20":
         material: MAGENTA_BED
         enchanted: true
