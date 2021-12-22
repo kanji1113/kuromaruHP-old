@@ -1,4 +1,4 @@
-## Lovmc.ml の公式 HP リポジトリ  ![Discord](https://img.shields.io/discord/756496112126263318?color=009c9e&label=Discord&logo=discord&logoColor=ffffff&style=flat-square) 
+## Lovmc.ml の公式 HP リポジトリ  [![Discord](https://img.shields.io/discord/756496112126263318?color=009c9e&label=Discord&logo=discord&logoColor=ffffff&style=flat-square)](https://discord.gg/3cPMXcdGKd)
 プルリクとか気軽に送ってください
 
 ## リンク
