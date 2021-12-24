@@ -1,11 +1,11 @@
 panels:
-  menuM:
+  menu:
     perm: default
     rows: 6
     title: "&3=== &9&lL&5&lO&6&lV&3&lM&9&lC&d&l Phone &3==="
     empty: light_blue_stained_glass_pane
     commands:
-      - menuM
+      - menu
     item:
       "0":
         material: cps= eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMzNmY2NzE1ZmQ2MGRkODM2ZjI4ZTUyM2MzNDM0NWE0NTQyMDdlZTQxODRkNWIzZGQ0Y2U1MjkzMDcxYzEifX19
