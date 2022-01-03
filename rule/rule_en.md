@@ -9,7 +9,7 @@ Players are recommended to join official [Discord server](https://discord.com/in
 
 ## 1. Griefing is strictly prohibited
 
-Destroying, trapping, stealing, SPAM, DDos etc...
+Destroying, trapping, stealing, SPAM, DDoS etc...
 
 ## 2. Get allowed
 
