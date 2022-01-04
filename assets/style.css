@@ -209,6 +209,14 @@ body {
   background: #24292f;
 }
 
+.b-sle {
+  color: #749b9b;
+  border: solid 4px #749b9b;
+}
+.b-sle:hover {
+  background: #749b9b;
+}
+
 /*SmartPhone*/
 
 @media (max-width: 639px) {
