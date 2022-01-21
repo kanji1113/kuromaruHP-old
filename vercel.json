@@ -1,16 +1,22 @@
 {
-    "redirects": [
-      {
-        "source": "/dynmap",
-        "destination": "http://lovmc.ml/dynmap"
-      },
-      {
-        "source": "/index.html",
-        "destination": "/"
-      },
-      {
-        "source": "/bluemap",
-        "destination": "http://lovmc.ml/bluemap"
-      }
-    ]
-  }
+  "redirects": [
+    {
+      "source": "/dynmap",
+      "destination": "http://kuromaru.ml/dynmap"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/"
+    },
+    {
+      "source": "/bluemap",
+      "destination": "http://kuromaru.ml/bluemap"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/join-server-from-switch",
+      "destination": "/join-server-from-switch.html"
+    }
+  ]
+}
