@@ -6,7 +6,7 @@ body {
   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ",
     "Meirio", sans-serif;
   margin: 0;
-  background-color: #7cd6b2;
+  background-color: gray;
 }
 
 .all {
@@ -21,7 +21,6 @@ body {
   width: 90%;
   max-width: 22em;
   margin: 0.5em;
-  image-rendering: pixelated;
 }
 
 #copy {
@@ -53,8 +52,8 @@ body {
 
 .frame {
   display: inline-block;
-  color: #009c9e;
-  border: solid 4px #009c9e;
+  color: black;
+  border: solid 4px black;
   width: 80%;
   max-width: 30em;
   border-radius: 3.9px;
@@ -137,12 +136,12 @@ body {
   color: white;
 }
 .b-Join {
-  color: #009c9e;
-  border: solid 4px #009c9e;
+  color: black;
+  border: solid 4px black;
 }
 
 .b-Join:hover {
-  background: #009c9e;
+  background: black;
 }
 
 .b-Dis {
@@ -207,6 +206,14 @@ body {
 }
 .b-Git:hover {
   background: #24292f;
+}
+
+.b-sle {
+  color: #749b9b;
+  border: solid 4px #749b9b;
+}
+.b-sle:hover {
+  background: #749b9b;
 }
 
 /*SmartPhone*/
